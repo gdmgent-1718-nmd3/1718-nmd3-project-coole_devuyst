@@ -15,20 +15,25 @@ __Wat is voor jullie een goed museumbezoek?__
  - Wat is voor jullie een rede om een museum links te laten liggen?
  - het onderwerp van het museum moet ons maar ook de kindjes liggen
  - aangezien de kindjes erbij zijn is het belangrijk dat het museum iets van respons vraagt, interactie om de aandacht er bij te houden
+<br>
 __Komen jullie hier voornamelijk voor de vaste of tijdelijke collectie?__
  - het is vooral de vaste collectie die onze interesse opwekt
  - tijdelijke collectie wordt meegenomen als extraatje
+ <br>
 __Waarom kozen jullie voor het MIAT?__
  - op aanraden van de gezinsbond, het zou een heel leuk museum zijn voor jong en oud
  - door de zoektocht voor de kindjes
  - het onderwerp, de evolutie 
+<br>
 __Loont het tot nu toe jullie verwachtingen in?__
  - Het spreekt wel, zeer leuk om samen te doen
  - het houdt ook de kinderen tot nu toe heel goed bezig, het boekje is heel handig
  - zeer interessant, ook doordat het op een interactieve manier gebracht wordt
+ <br>
 __Zou u gebruik willen maken van een app een meerwaarde vinden tijdens het bezoek?__
  - eigenlijk vinden wij het perfect zoals het nu is, het is eens leuk wanneer de kinderen niet achter hun tablet zitten
  - neen, we zijn al genoeg met onze smartphone bezig
+ <br>
 __Wat ons zelf opviel tijdens het bezoek?__
  - op het panorama verdiep gebeurde niet veel meer dan een fotootje nemen
  - bij de sectie over wereldwijd werken gingen kindjes en ouders meteen aan de slag met de opdrachtjes uit het boekje
