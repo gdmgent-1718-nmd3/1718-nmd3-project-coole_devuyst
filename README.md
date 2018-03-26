@@ -3,8 +3,8 @@ New Media Design III 2017-2018
 
 Studenten:
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Amber De Vuyst
+ - Lorenzo Coole
 
 > Artevelde University College Ghent
 
