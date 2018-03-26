@@ -13,8 +13,8 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Amber De Vuyst
+ - Lorenzo Coole
 
-Gekozen Museum
+M.I.A.T.
 --------------
