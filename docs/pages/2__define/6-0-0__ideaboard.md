@@ -6,3 +6,6 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
+
+
+![alt text](images/ideabord "Ideaboard")
