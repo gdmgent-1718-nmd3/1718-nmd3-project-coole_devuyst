@@ -1,28 +1,40 @@
 # ╔═══════════╗
-# ║ Student 1 ║
+# ║  Lorenzo  ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
--
   time: 1
-  task: Lorem ipsum sit dolor amet.
+  task: Museum keuze en mogelijke concepten
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Museumbezoek
 -
   time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  task: Technische Analyse
+-
+  time: 1.25
+  task: Journey maps
+-
+  time: 3.75
+  task: Smartwatch wireframes
+-
+  time: 3
+  task: Smartwatch visuals
+-
+  time: 3.5
+  task: Smartphone wireframes
 -
   time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  task: Smartphone visuals
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 2.25
+  task: Smartwatch visuals
+-
+  time: 3
+  task: Website wireframes
+-
+  time: 1.5
+  task: Website visuals
+-
+  time: 10
+  task: Digitaal dossier + style guide

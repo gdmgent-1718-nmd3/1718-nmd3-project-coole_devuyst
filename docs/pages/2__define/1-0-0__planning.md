@@ -6,3 +6,13 @@ published: true
 # ─────────────────────
 title: Planning
 ---
+
+## Planning
+
+Datum      | Naam               | Onderdeel
+-----------|--------------
+DATUM      | Amber              | Plannen
+DATUM      | Amber & Lorenzo    | Bezoeken musuem
+DATUM	   | Lorenzo            | Onderzoek
+DATUM      | Amber              | Onderzoek
+-----------|--------------

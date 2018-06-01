@@ -1,28 +1,37 @@
 # ╔═══════════╗
-# ║ Student 2 ║
+# ║   Amber   ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
--
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
--
   time: 1
-  task: Lorem ipsum sit dolor amet.
+  task: Museum keuze en mogelijke concepten
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Museumbezoek
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Analyse
+-
+  time: 0.25
+  task: Defining concept
 -
   time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  task: Idea and moodboard
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 4.25
+  task: Style Tile
+-
+  time: 5.5
+  task: Smartwatch visuals + Paper prototype
+-
+  time: 2.25
+  task: Gebruikerstesten smartwatch
+-
+  time: 4.75
+  task: Smartphone visuals
+-
+  time: 2.75
+  task: Website visuals
+-
+  time: 11.75
+  task: Visuals Designs + finishing prototypes

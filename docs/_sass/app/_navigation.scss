@@ -68,3 +68,22 @@ $nav-link-indentation-level: 1rem;
     }
   }
 }
+
+.gdm-nav-header{
+  background-color: $orange;
+  z-index: 33;
+  }
+.gdm-nav-body{
+  margin-top: 150px;
+  }
+
+.gdm-nav-header a{
+  color: white;
+  line-height: 60px;
+  }
+
+.gdm-nav-header p{
+  color: white;
+  text-align: center;
+  line-height: 14px;
+  }

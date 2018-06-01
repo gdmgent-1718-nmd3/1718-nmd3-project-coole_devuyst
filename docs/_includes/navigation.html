@@ -1,6 +1,12 @@
 <nav class="nav flex-column gdm-nav">
+    <div class="gdm-nav-header position-fixed">
     <a class="nav-link gdm-nav-level-home active" href="{{ site.baseurl }}{% link pages/home.md %}" target="view">
         <i class="fa fa-fw fa-home"></i> {{ site.title }}
     </a>
+    <p>M.I.A.T.</p>
+    <p>Amber Devuyst & Lorenzo Coole</p>
+    </div>
+    <div class="gdm-nav-body">
 {%- include navigation-level-0.html nav_items=site.data.navigation %}
+    </div>
 </nav>

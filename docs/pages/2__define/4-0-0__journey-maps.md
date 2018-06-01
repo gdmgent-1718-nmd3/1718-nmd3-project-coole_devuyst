@@ -30,9 +30,10 @@ Bij aankomst ziet hij aan de balie dat een app kan gedownload worden voor smartp
 #### Doelen en verwachtingen
 - Effiiciente app die hem meer te weten laat komen over de lokale industrie zonder veel overtollige informatie
 - Door de digitale ervaring en interacties meer meegenomen worden in het verhaal en ervaringen van mensen in die tijd.
+### Journey Map
+![JourneyMap01]({{ '/assets/img/JourneyMap01.png' | relative_url }}){:.w-100}
 
-
-## Map 1
+## Map 2
 ### De Lens
 #### Demografisch
 - Sofie Jansens
@@ -53,3 +54,7 @@ Sofie is lid van de gezinsbond. Ze ontdekt het MIAT dan ook via een mail die ze 
 een app die zichzelf uitwijst
 een museumbezoek waarbij het hele gezin op een interactieve manier iets bijleert en dat hun nog lang zal bijblijven
 een activiteit die ook de kinderen een tijdje bezig houdt.
+![JourneyMap02]({{ '/assets/img/JourneyMap02.png' | relative_url }}){:.w-100}
+
+## Journey maps PDF
+Dit is een downloadlink voor de [PDF]({{ '/assets/img/JourneyMaps.pdf' | relative_url }})
