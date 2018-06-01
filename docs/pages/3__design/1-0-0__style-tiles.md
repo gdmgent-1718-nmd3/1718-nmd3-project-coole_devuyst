@@ -7,11 +7,9 @@ published: true
 title: Style Tiles
 ---
 
-Gekozen
--------
 
-Alternatief 1
--------------
-
-Alternatief 2
--------------
+**Gekozen**    | Alternatief       | Alternatief 2   | Alternatief 3
+:-------------:|:-----------------:|:---------------:|:----------------:|
+![StyleTileGekozen]({{ '/assets/img/StyleTileFav.png' | relative_url }}){:.fav}     | ![StyleTile01]({{ '/assets/img/StyleTile01.png' | relative_url }}){:.alt}         | ![StyleTile02]({{ '/assets/img/StyleTile02.png' | relative_url }}){:.alt}         | ![StyleTile02]({{ '/assets/img/StyleTile02.png' | relative_url }}){:.alt}
+-----------|-------------------|-----------------|-----------------|
+{:.table.table--primary}
