@@ -15,4 +15,5 @@ DATUM      | Amber              | Plannen
 DATUM      | Amber & Lorenzo    | Bezoeken musuem
 DATUM	   | Lorenzo            | Onderzoek
 DATUM      | Amber              | Onderzoek
------------|--------------
+-----------|--------------------|-------------------
+{:.table.table--primary.planning}
