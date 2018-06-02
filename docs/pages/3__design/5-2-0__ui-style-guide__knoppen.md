@@ -6,3 +6,6 @@ published: true
 # ─────────────────────
 title: Knoppen
 ---
+
+lees meer
+{:.btn .btn-outline-primary}
