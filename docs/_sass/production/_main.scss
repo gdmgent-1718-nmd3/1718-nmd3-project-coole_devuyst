@@ -38,6 +38,16 @@ table.smartwatchWireflow td, table.smartwatchWireflow th,
 table.smartwatchVisuals td, table.smartwatchVisuals th {
         border: none !important;
     }
+table.tableIntro td,
+table.tableIntro th{
+    border-color: $orange;
+}
+table.tableIntro th{
+    border-top: none;
+}
+table.tableIntro{
+    margin-top: 50px;
+}
 
 table.smartphoneVisuals thead,
 table.smartwatchWireflow thead,
@@ -50,6 +60,9 @@ table.smartwatchWireflow img,
     width: 100%;
     height: 100%;
 }
+table.smartwatchVisuals img{
+    width: 100%;
+}
 
 .subtitle{
     @include titles;
@@ -57,4 +70,8 @@ table.smartwatchWireflow img,
     font-size: 16px;
    margin-top:40px;
    font-kerning: 10%;
+}
+
+hr {
+    border-top:5px solid $blue;
 }

@@ -12,7 +12,7 @@ title: Planning
 Datum      | Onderdeel
 -----------|-----------
 12-02-2018 | Plannen
-16-02-2018 | Bezoeken musuem
+16-02-2018 | Bezoeken museum
 20-02-2018 | Onderzoek
 21-02-2018 | Onderzoek
 12-03-2018 | Smartwatch wireframes
