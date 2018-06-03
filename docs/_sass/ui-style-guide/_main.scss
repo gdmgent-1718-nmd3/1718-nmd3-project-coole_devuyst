@@ -16,7 +16,9 @@
 pre code{
     color: $yellow;
 }
-
+h1:first{
+    margin-top:150px;
+}
 h1,h2,h2{
     @include titles;
     color:$blue;
