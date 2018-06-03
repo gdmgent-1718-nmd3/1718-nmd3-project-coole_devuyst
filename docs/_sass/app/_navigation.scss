@@ -34,6 +34,7 @@ $nav-link-indentation-level: 1rem;
       opacity: .5;
       position: absolute;
       line-height: inherit;
+
     }
   }
   &-0 {
@@ -80,10 +81,28 @@ $nav-link-indentation-level: 1rem;
 .gdm-nav-header a{
   color: white;
   line-height: 60px;
+  font-family: $font-family-OpenSans;
+  font-weight: normal;
+  font-size: 17px;
+  padding-right: 8%;
   }
 
 .gdm-nav-header p{
   color: white;
   text-align: center;
   line-height: 14px;
+  font-family: $font-family-titles;
+  font-size: 16px;
   }
+.gdm-nav-body a{
+  font-family: $font-family-OpenSans;
+  font-weight:lighter;
+}
+.gdm-nav-body a.gdm-nav-level-1{
+  font-family: $font-family-OpenSans;
+  font-weight: normal;
+}
+
+.gdm-nav-body a.gdm-nav-level-0{
+  font-family: $font-family-titles;
+}
