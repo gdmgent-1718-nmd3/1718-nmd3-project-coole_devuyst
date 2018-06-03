@@ -35,7 +35,9 @@ table img.alt{
 
 table.smartphoneVisuals td, table.smartphoneVisuals th,
 table.smartwatchWireflow td, table.smartwatchWireflow th,
-table.smartwatchVisuals td, table.smartwatchVisuals th {
+table.smartwatchVisuals td, table.smartwatchVisuals th,
+table.webWireframes td, table.webWireframes th,
+table.webVisuals td,table.webVisuals th {
         border: none !important;
     }
 table.tableIntro td,
@@ -51,11 +53,15 @@ table.tableIntro{
 
 table.smartphoneVisuals thead,
 table.smartwatchWireflow thead,
-table.smartwatchVisuals thead{
+table.smartwatchVisuals thead,
+table.webWireframes thead,
+table.webVisuals thead{
       color: transparent;
     }
 table.smartphoneVisuals img, 
 table.smartwatchWireflow img,
+table.webWireframes img,
+table.webVisuals img
 {
     width: 100%;
     height: 100%;

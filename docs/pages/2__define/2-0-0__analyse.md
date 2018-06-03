@@ -51,4 +51,4 @@ __Wat ons zelf opviel tijdens het bezoek?__
  - de lijn van personages met verhalen zou kunnen doorgetrokken worden naar de textiel verdieping   
 
 ### Conclusie
-Er was vooral bij de bezoekers met kindjes zeker en vast geen behoefte om meer technologische snufjes te integreren in de ervaring. Dit is een grote uitdaging voor ons om hier net de behoefte te gaan creëren. We zullen ervoor moeten zorgen dat jong en oud gedurende het hele bezoek geboeid blijven en niet de laatste verdiepingen gaan overslaan zoals ons nu opviel. Ons doel wordt om hen op een leuke, interactieve manier
+Er was vooral bij de bezoekers met kindjes zeker en vast geen behoefte om meer technologische snufjes te integreren in de ervaring. Dit is een grote uitdaging voor ons om hier net de behoefte te gaan creëren. We zullen ervoor moeten zorgen dat jong en oud gedurende het hele bezoek geboeid blijven en niet de laatste verdiepingen gaan overslaan zoals ons nu opviel. Ons doel wordt om hen op een leuke, interactieve manier de geschiedenis laten herbelevenn hun een museumervaring geven als nooit tevoren.

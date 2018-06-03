@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
+
+![Sitemap]({{ '/assets/img/sitemap.png' | relative_url }}){:.w-100}

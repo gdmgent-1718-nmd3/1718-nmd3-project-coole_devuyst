@@ -23,6 +23,7 @@ De lay-out op de schermen zonder tekst ziet er in het algemeen leuk uit en niet 
 
 ## Gebruiksvriendelijk
 
-De app lijkt op het eerste zicht gebruiktsvriendelijk en geen overbodige schermen behalve de eerste twee die dienen om instellingen juist te zetten voor de tour te starten.
+De app lijkt op het eerste zicht gebruiktsvriendelijk en geen overbodige schermen behalve de eerste twee die dienen om instellingen juist te zetten voor de tour te starten. Verder zijn er bij zowel de vrouwelijke als mannelijke gebruiker geen onduidelijkheden voorgekomen. 
+Beiden hadden het meteen beet, hoewel ze nog niet zo bekend zijn met smatwatch apps.
 
 vernieuwde versie na gebruikerstesten en verder verloop project: [Digital Prototype](https://xd.adobe.com/view/5e6a6011-2a81-46b0-6a74-f4c0d76fcf73-285b/?fullscreen)

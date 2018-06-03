@@ -16,7 +16,7 @@ Het bijgevoegde verslag zijn de gebruikertesten van de verbeterde app na feedbac
 
 ## Algemeen
 
-De app ziet er op het eerste zicht zeer leuk uit, met moderne kleuren en vormen. De icoontjes zien er leuk uit en passen allemaal bij elkaar. Alle schermen zien er op het eerste zicht uit als één stijl. Het instellen van de app gaat vlot en er zijn geen overbodige schermen die geen nut hebben voor de app. De app lijkt wel te passen naast de vernieuwde versie van de smartwatch app. Als deze app zou bestaan zou het inderdaad een meerwaarde vormen voor het museumbezoek
+De app ziet er op het eerste zicht zeer leuk uit, met moderne kleuren en vormen. De icoontjes zien er leuk uit en passen allemaal bij elkaar. Alle schermen zien er op het eerste zicht uit als één stijl. Het instellen van de app gaat vlot en er zijn geen overbodige schermen die geen nut hebben voor de app. De app lijkt wel te passen naast de vernieuwde versie van de smartwatch app. Als deze app zou bestaan zou het inderdaad een meerwaarde vormen voor het museumbezoek.
 
 ## Lay-out
 
