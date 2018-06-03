@@ -18,6 +18,13 @@ p{
 li{
     @include paragraphs;
 }
+table th{
+    font-family: $font-family-titles;
+}
+table td{
+    @include paragraphs;
+}
+
 
 table img.fav{
 width: 108%;
