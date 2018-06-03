@@ -1,6 +1,7 @@
 .btn-outline-primary{
     border-radius: 0;
     border-width: 4px;
+    @include buttons;
 }
 .btn-outline-primary:hover{
     background-color: transparent;
@@ -12,3 +13,20 @@
 .btnIcon{
     width: 100%;
 }
+pre code{
+    color: $yellow;
+}
+
+h1,h2,h2{
+    @include titles;
+    color:$blue;
+}
+p{ 
+    @include paragraphs;
+}
+
+table.tableButtons td, table.tableButtons th,
+ {
+        border: none !important;
+        color: transparent;
+    }

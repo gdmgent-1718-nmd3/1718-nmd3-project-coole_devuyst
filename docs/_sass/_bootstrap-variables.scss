@@ -11,8 +11,8 @@
 //
 
 $cyan:    #cf0d5e !default;
-$orange:    rgb(231, 135, 9);
-$blue:    rgb(21, 122, 126);
+$orange:    #EE782F;
+$blue:    #7CB8B9;
 //$cyan:    #17a2b8 !default;
 $primary: $orange;
 
@@ -21,5 +21,35 @@ $primary: $orange;
 // Font, line-height, and color for body text, headings, and more.
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Open+Sans+Condensed:300,300i,700|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i');
 
 $font-family-base: Merriweather, serif;
+$font-family-OpenSansCond: 'Open Sans Condensed', sans-serif;
+$font-family-OpenSans: 'Open Sans', sans-serif;
+$font-family-titles: 'Alfa Slab One', cursive;
+
+@mixin titles{
+    font-family: $font-family-titles;
+    font-size:26px;
+    line-height: 36px;
+    font-weight: normal;
+}
+
+@mixin paragraphs{
+    font-family: $font-family-OpenSans;
+    font-size:15px;
+    line-height: 24px;
+    font-weight: normal;
+}
+@mixin notifications{
+    font-family: $font-family-OpenSans;
+    font-size:28px;
+    line-height: 38px;
+    font-weight: normal;
+}
+@mixin buttons{
+    font-family: $font-family-OpenSans;
+    font-size:24px;
+    line-height: 24px;
+    font-weight: normal;
+}
