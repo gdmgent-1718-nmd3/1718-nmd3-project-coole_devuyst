@@ -34,5 +34,6 @@ Datum      | Onderdeel
 02-06-2018 | Updaten dossier
 03-06-2018 | Updaten style guide
 03-06-2018 | Digital prototype
+03-06-2018 | Deliver
 -----------|-------------------
 {:.table.table--primary.planning}
