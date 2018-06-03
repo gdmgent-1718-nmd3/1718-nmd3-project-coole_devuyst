@@ -1,0 +1,14 @@
+.btn-outline-primary{
+    border-radius: 0;
+    border-width: 4px;
+}
+.btn-outline-primary:hover{
+    background-color: transparent;
+    color: $orange;
+}
+/*.btnIcon:hover{
+    width: 15%;
+}*/
+.btnIcon{
+    width: 100%;
+}
