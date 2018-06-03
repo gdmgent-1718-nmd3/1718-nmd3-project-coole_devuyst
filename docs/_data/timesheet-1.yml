@@ -9,32 +9,41 @@
   time: 3
   task: Museumbezoek
 -
-  time: 1.5
+  time: 2
   task: Technische Analyse
 -
-  time: 1.25
+  time: 4
   task: Journey maps
+-
+  time: 3
+  task: Smartwatch analyse
 -
   time: 3.75
   task: Smartwatch wireframes
 -
-  time: 3
+  time: 5
   task: Smartwatch visuals
 -
   time: 3.5
+  task: Smartphone Analyse
+-
+  time: 5.5
   task: Smartphone wireframes
 -
-  time: 1.75
+  time: 8.75
   task: Smartphone visuals
 -
-  time: 2.25
-  task: Smartwatch visuals
+  time: 3.25
+  task: Bijwerken smartwatch visuals
 -
-  time: 3
+  time: 6.75
   task: Website wireframes
 -
-  time: 1.5
+  time: 5.5
   task: Website visuals
 -
-  time: 10
+  time: 20
   task: Digitaal dossier + style guide
+-
+  time: 7.25
+  task: finishing project

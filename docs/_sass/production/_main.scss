@@ -12,6 +12,9 @@ h3{
 p{ 
     @include paragraphs;
 }
+li{
+    @include paragraphs;
+}
 
 table img.fav{
 width: 108%;

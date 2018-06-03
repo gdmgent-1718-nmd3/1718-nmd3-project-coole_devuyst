@@ -9,7 +9,7 @@
   time: 3
   task: Museumbezoek
 -
-  time: 2
+  time: 4
   task: Analyse
 -
   time: 0.25
@@ -21,17 +21,32 @@
   time: 4.25
   task: Style Tile
 -
-  time: 5.5
+  time: 3
+  task: Smartwatch analyse
+-
+  time: 10.5
   task: Smartwatch visuals + Paper prototype
 -
   time: 2.25
   task: Gebruikerstesten smartwatch
 -
-  time: 4.75
+  time: 6.5
+  task: Smartphone Analyse
+-
+  time: 7.75
   task: Smartphone visuals
+-
+  time: 3.5
+  task: Gebruikerstesten smartphone
 -
   time: 2.75
   task: Website visuals
 -
-  time: 11.75
-  task: Visuals Designs + finishing prototypes
+  time: 7.25
+  task: Bijwerken smartwatch visuals
+-
+  time: 25.75
+  task: Bijwerken visuals designs
+-
+  time: 5.25
+  task: finishing project
