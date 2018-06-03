@@ -39,9 +39,17 @@ table.tableButtons td, table.tableButtons th,
 form{
     margin-left:50px;
 }
-.form-control,.form-control:hover,.form-control:focus{
+.form-control,
+.form-control:hover,
+.form-control:focus{
     background-color: transparent;
     border-radius: 0;
     border: 3px solid white ;
     color:white;
 }
+
+.form-control::-webkit-input-placeholder { color: white; font-family: $font-family-OpenSans; }  /* WebKit, Blink, Edge */
+.form-control:-moz-placeholder { color: white;font-family: $font-family-OpenSans; }  /* Mozilla Firefox 4 to 18 */
+.form-control::-moz-placeholder { color: white;font-family: $font-family-OpenSans; }  /* Mozilla Firefox 19+ */
+.form-control:-ms-input-placeholder { color: white;font-family: $font-family-OpenSans; }  /* Internet Explorer 10-11 */
+.form-control::-ms-input-placeholder { color: white;font-family: $font-family-OpenSans; }  /* Microsoft Edge */
