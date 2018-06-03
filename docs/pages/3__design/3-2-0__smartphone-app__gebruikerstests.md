@@ -25,3 +25,15 @@ Het is een moderne lay-out met veel witruimte en leuke achtergronden. De achterg
 ## Gebruiksvriendelijk
 
 Op het eerste zicht is het doorlopen van de instellingen gebruiksvriendelijk met de icoontjes worden er geen overbodige dingen gevraagd. Ook het doorlopen van de gekozen tour gaat vlot en zorgt voor een fijne gebruikservaring in het algemeen.
+
+.              |.              |.              |.
+:-------------:|:-----------------:|:---------------:|:----------------:|
+![TestSmartphone]({{ '/assets/img/test_smartphone/01.jpg' | relative_url }}){:w-100}     |      ![TestSmartphone]({{ '/assets/img/test_smartphone/02.jpg' | relative_url }}){:w-100}     |      ![TestSmartphone]({{ '/assets/img/test_smartphone/03.jpg' | relative_url }}){:w-100}     |      ![TestSmartphone]({{ '/assets/img/test_smartphone/04.jpg' | relative_url }}){:w-100}     | 
+-----------|-------------------|-----------------|-----------------|
+![TestSmartphone]({{ '/assets/img/test_smartphone/05.jpg' | relative_url }}){:w-100}     |      ![TestSmartphone]({{ '/assets/img/test_smartphone/06.jpg' | relative_url }}){:w-100}     |      ![TestSmartphone]({{ '/assets/img/test_smartphone/07.jpg' | relative_url }}){:w-100}     |      ![TestSmartphone]({{ '/assets/img/test_smartphone/08.jpg' | relative_url }}){:w-100}     | 
+-----------|-------------------|-----------------|-----------------|
+![TestSmartphone]({{ '/assets/img/test_smartphone/09.jpg' | relative_url }}){:w-100}     |      ![TestSmartphone]({{ '/assets/img/test_smartphone/10.jpg' | relative_url }}){:w-100}     |      ![TestSmartphone]({{ '/assets/img/test_smartphone/11.jpg' | relative_url }}){:w-100}     |      ![TestSmartphone]({{ '/assets/img/test_smartphone/12.jpg' | relative_url }}){:w-100}     | 
+-----------|-------------------|-----------------|-----------------|
+![TestSmartphone]({{ '/assets/img/test_smartphone/13.jpg' | relative_url }}){:w-100}     |      ![TestSmartphone]({{ '/assets/img/test_smartphone/14.jpg' | relative_url }}){:w-100}     |      ![TestSmartphone]({{ '/assets/img/test_smartphone/15.jpg' | relative_url }}){:w-100}     |      ![TestSmartphone]({{ '/assets/img/test_smartphone/16.jpg' | relative_url }}){:w-100}     | 
+-----------|-------------------|-----------------|-----------------|
+{:.table.table--primary.webWireframes}

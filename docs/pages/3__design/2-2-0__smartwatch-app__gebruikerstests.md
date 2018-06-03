@@ -27,3 +27,17 @@ De app lijkt op het eerste zicht gebruiktsvriendelijk en geen overbodige scherme
 Beiden hadden het meteen beet, hoewel ze nog niet zo bekend zijn met smatwatch apps.
 
 vernieuwde versie na gebruikerstesten en verder verloop project: [Digital Prototype](https://xd.adobe.com/view/5e6a6011-2a81-46b0-6a74-f4c0d76fcf73-285b/?fullscreen)
+
+.              |.              |.              |.
+:-------------:|:-----------------:|:---------------:|:----------------:|
+![TestSmartwatch]({{ '/assets/img/test_smartwatch/01.jpg' | relative_url }}){:w-100}     |      ![TestSmartwatch]({{ '/assets/img/test_smartwatch/02.jpg' | relative_url }}){:w-100}     |      ![TestSmartwatch]({{ '/assets/img/test_smartwatch/03.jpg' | relative_url }}){:w-100}     |      ![TestSmartwatch]({{ '/assets/img/test_smartwatch/04.jpg' | relative_url }}){:w-100}     | 
+-----------|-------------------|-----------------|-----------------|
+![TestSmartwatch]({{ '/assets/img/test_smartwatch/05.jpg' | relative_url }}){:w-100}     |      ![TestSmartwatch]({{ '/assets/img/test_smartwatch/06.jpg' | relative_url }}){:w-100}     |      ![TestSmartwatch]({{ '/assets/img/test_smartwatch/07.jpg' | relative_url }}){:w-100}     |      ![TestSmartwatch]({{ '/assets/img/test_smartwatch/08.jpg' | relative_url }}){:w-100}     | 
+-----------|-------------------|-----------------|-----------------|
+![TestSmartwatch]({{ '/assets/img/test_smartwatch/09.jpg' | relative_url }}){:w-100}     |      ![TestSmartwatch]({{ '/assets/img/test_smartwatch/10.jpg' | relative_url }}){:w-100}     |      ![TestSmartwatch]({{ '/assets/img/test_smartwatch/11.jpg' | relative_url }}){:w-100}     |      ![TestSmartwatch]({{ '/assets/img/test_smartwatch/12.jpg' | relative_url }}){:w-100}     | 
+-----------|-------------------|-----------------|-----------------|
+![TestSmartwatch]({{ '/assets/img/test_smartwatch/13.jpg' | relative_url }}){:w-100}     |      ![TestSmartwatch]({{ '/assets/img/test_smartwatch/14.jpg' | relative_url }}){:w-100}     |      ![TestSmartwatch]({{ '/assets/img/test_smartwatch/15.jpg' | relative_url }}){:w-100}     |      ![TestSmartwatch]({{ '/assets/img/test_smartwatch/16.jpg' | relative_url }}){:w-100}     | 
+-----------|-------------------|-----------------|-----------------|
+![TestSmartwatch]({{ '/assets/img/test_smartwatch/17.jpg' | relative_url }}){:w-100}     |      ![TestSmartwatch]({{ '/assets/img/test_smartwatch/18.jpg' | relative_url }}){:w-100}     |      ![TestSmartwatch]({{ '/assets/img/test_smartwatch/19.jpg' | relative_url }}){:w-100}     |       | 
+-----------|-------------------|-----------------|-----------------|
+{:.table.table--primary.webWireframes}
