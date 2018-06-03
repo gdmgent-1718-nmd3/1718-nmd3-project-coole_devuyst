@@ -32,3 +32,16 @@ table.tableButtons td, table.tableButtons th,
         border: none !important;
         color: transparent;
     }
+.background{
+    background-color: $orange;
+    padding: 50px;
+}
+form{
+    margin-left:50px;
+}
+.form-control,.form-control:hover,.form-control:focus{
+    background-color: transparent;
+    border-radius: 0;
+    border: 3px solid white ;
+    color:white;
+}
